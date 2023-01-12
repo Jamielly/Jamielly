@@ -46,7 +46,6 @@ Ahoy! Eu sou a Jamielly👽
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ##
-<div>
   ![Snake animation](https://github.com/jamielly/jamielly/blob/output/github-contribution-grid-snake.svg)
  
 </div>
