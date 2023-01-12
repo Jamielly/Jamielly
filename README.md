@@ -48,3 +48,8 @@ Ahoy! Eu sou a Jamielly👽
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
+
+  <div align="center">
+  <p>Feito com :heart: e :brasil:</p>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+</div>
