@@ -7,14 +7,14 @@ Ahoy! Eu sou a Jamielly👽
 🔸Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC-GRU <br>🔸Técnica formada em Automação Industrial | IFSP-GRU<br> 🔸Atualmente possuo conhecimento em C, C# e Java<br> 🔸Atualmente estou trabalhando com Back-end<br> ⚡ Fun fact: Amo a minha gata <br>🔸Eu estou aprendendo PHP<br>🔸Pronomes: Ela/Dela<br>
 
 
-## 
+--- 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jamiih_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jamie jami#9807" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jamiellyreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jamielly-r-7292b0218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 ##
 ![](https://github-readme-stats.vercel.app/api?username=Jamielly&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jamielly&theme=tokyonight&hide_border=false)<br/>
@@ -45,8 +45,10 @@ Ahoy! Eu sou a Jamielly👽
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-##
-  ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg)
+---
+<div align="center">
+
+  ![Snake animation](https://github.com/jamielly/jamielly/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -56,4 +58,5 @@ Ahoy! Eu sou a Jamielly👽
   <div align="center">
   <p>Feito com :heart: e 🧠</p>
   <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+  <p>Made in :brazil:</p>
 </div>
