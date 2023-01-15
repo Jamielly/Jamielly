@@ -35,7 +35,7 @@ Ahoy! Eu sou a Jamielly👽
   <img align="center" alt="Jami-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Jami-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Jami-Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Jami-Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center" alt="Jami-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 
 </div>
  
@@ -46,18 +46,18 @@ Ahoy! Eu sou a Jamielly👽
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
+  
 <div align="center">
 
   ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
+  
 ---
-[![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
 
   <div align="center">
   <p>Feito com :heart: e 🧠</p>
   <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
-  <p>Made in :brazil:</p>
+  <p>Made in 🇧🇷</p>
 </div>
