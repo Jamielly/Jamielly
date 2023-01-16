@@ -34,7 +34,7 @@ Ahoy! Eu sou a Jamielly👽
   <img align="center" alt="Jami-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Jami-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Jami-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Jami-Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Jami-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Jami-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 
 </div>
@@ -49,7 +49,7 @@ Ahoy! Eu sou a Jamielly👽
   
 <div align="center">
 
-  ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jamielly/jamielly/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
