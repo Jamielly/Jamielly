@@ -49,7 +49,7 @@ Ahoy! Eu sou a Jamielly👽
   
 <div align="center">
 
-  ![Snake animation](https://github.com/jamielly/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jamielly/jamielly/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
