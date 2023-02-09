@@ -4,7 +4,7 @@ Ahoy! Eu sou a Jamielly👽
   </h1>
 </div>
 
-🔸Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC-GRU <br>🔸Formada Técnica em Automação Industrial | IFSP-GRU<br> 🔸Atualmente possuo conhecimento em C, C# e Java<br> 🔸Atualmente estou trabalhando com Back-End<br> ⚡ Fun fact: Amo a minha gata <br>🔸Eu estou aprendendo PHP<br>🔸Pronomes: Ela/Dela<br>
+🔸Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC-GRU <br>🔸Formada Técnica em Automação Industrial | IFSP-GRU<br> 🔸Atualmente possuo conhecimento em C, C# e Java<br> 🔸Atualmente estou trabalhando com Back-End<br> ⚡ Fun fact: Amo a minha gata <br>🔸Pronomes: Ela/Dela<br>
 
 
 --- 
