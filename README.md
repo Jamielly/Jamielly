@@ -47,13 +47,11 @@ Ahoy! Eu sou a Jamielly👽
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-  
+ 
 <div align="center">
-
-  ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg)
-  
+<! -- ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg) -- >
 </div>
-  
+
 ---
  [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
 
