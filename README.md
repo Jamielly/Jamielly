@@ -45,13 +45,16 @@ Ahoy! Eu sou a Jamielly👽
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
  
 <div align="center">
 <! -- ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg) -- >
 </div>
 
+  ### Recently Played on Spotify 🎧
+
+[![Spotify](https://novatorem-ramlalk.vercel.app/api/spotify)](https://open.spotify.com/user/<https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si=1f858ac1187a4b30>?si=<SEU_SI_CODE>)
+
+  
 ---
  [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
 
