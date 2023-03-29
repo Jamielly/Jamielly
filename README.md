@@ -1,11 +1,10 @@
 <div align="center">
-  <h1>
-Ahoy! Eu sou a Jamielly👽
-  </h1>
+  <h1>Ahoy! I'm Jamielly👽</h1>
 </div>
-
-🔸Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC-GRU <br>🔸Formada Técnica em Automação Industrial | IFSP-GRU<br> 🔸Atualmente possuo conhecimento em C, C# e Java<br> 🔸Atualmente estou trabalhando com Back-End<br> ⚡ Fun fact: Amo a minha gata <br>🔸Pronomes: Ela/Dela<br>
-
+<p align="justify"> ▪️ Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC-GRU <br> ▪️ Formada Técnica em Automação Industrial | IFSP-GRU<br> ▪️ Atualmente possuo conhecimento em C, C# e Java<br> ▪️ Atualmente estou trabalhando com Back-End<br> ▪️ Pronomes: Ela/Dela<br>
+<p align="center">⚡ Fun fact: I love my cat. 😻</p>
+<div align="center">
+  <h3> Find me around the web 🚀</h3>
 
 --- 
 <div align="center"> 
@@ -14,7 +13,7 @@ Ahoy! Eu sou a Jamielly👽
  <a href="https://discord.gg/jamie jami#9807" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jamiellyreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jamielly-r-7292b0218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  
 ##
 ![](https://github-readme-stats.vercel.app/api?username=Jamielly&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jamielly&theme=tokyonight&hide_border=false)<br/>
@@ -53,15 +52,15 @@ Ahoy! Eu sou a Jamielly👽
   ### Recently Played on Spotify 🎧
 
 [![Spotify](https://novatorem-ramlalk.vercel.app/api/spotify)](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
+  
+  ### ☆*: .｡. o(≧▽≦)o .｡.:*☆
+  
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Perfil do Spotify" />](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
 
-
-  
 ---
  [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
 
   <div align="center">
   <p>Feito com :heart: e 🧠</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
-  <p>Made in 🇧🇷</p>
+  <p></p>
 </div>
