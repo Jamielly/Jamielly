@@ -52,7 +52,7 @@ Ahoy! Eu sou a Jamielly👽
 
   ### Recently Played on Spotify 🎧
 
-[![Spotify](https://novatorem-ramlalk.vercel.app/api/spotify)](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si=<>)
+[![Spotify](https://novatorem-ramlalk.vercel.app/api/spotify)](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
 
   
 ---
