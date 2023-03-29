@@ -56,11 +56,11 @@
   ### ☆*: .｡. o(≧▽≦)o .｡.:*☆
   
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Perfil do Spotify" />](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
-
+  
 ---
  [![](https://visitcount.itsvg.in/api?id=Jamielly&icon=6&color=7)](https://visitcount.itsvg.in)
 
   <div align="center">
   <p>Feito com :heart: e 🧠</p>
-  <p></p>
+  <p>Made in &#x1F1E7;&#x1F1F7;</p>
 </div>
