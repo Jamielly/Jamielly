@@ -49,10 +49,7 @@
 <! -- ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg) -- >
 </div>
 
-  ### Recently Played on Spotify 🎧
-
-[![Spotify](https://novatorem-ramlalk.vercel.app/api/spotify)](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
-  
+  ### Me on Spotify 🎧
   ### ☆*: .｡. o(≧▽≦)o .｡.:*☆
   
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Perfil do Spotify" />](https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si)
