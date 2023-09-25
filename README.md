@@ -40,10 +40,10 @@
 </div>
  
 ## 
-![](https://github-profile-trophy.vercel.app/?username=Jamielly&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=Jamielly&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
  
 <div align="center">
 <! -- ![Snake animation](https://github.com/Jamielly/Jamielly/blob/output/github-contribution-grid-snake.svg) -- >
