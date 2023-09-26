@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ahoy! I'm Jamielly👽</h1>
+  <h1>Yay! I'm Jamielly👽</h1>
 </div>
 <p align="justify"> ▪️ Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC <br> ▪️ Formada Técnica em Automação Industrial | IFSP <br> ▪️ Atualmente possuo conhecimento em C, C# e Java<br> ▪️ Atualmente estou trabalhando com Back-End<br> ▪️ Pronomes: Ela/Dela<br>
 <p align="center">⚡ Fun fact: I love my cat. 😻</p>
