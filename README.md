@@ -72,10 +72,8 @@
 
 <div align="center">
   <h3>🎵 Spotify</h3>
-  <a href="https://open.spotify.com/user/3148r
-
-
-  <div align="center">
-  <p>Feito com :heart: e 🧠</p>
-  <p>Made in &#x1F1E7;&#x1F1F7;</p>
+  <a href="https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
+  </a>
 </div>
+
