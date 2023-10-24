@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👽 Yay! I'm Jamielly</h1>
 </div>
-<p align="justify"> ▪️ Estudante de Análise e Desenvolvimento de Sistemas - ADS | FATEC <br> ▪️ Formada Técnica em Automação Industrial | IFSP <br> ▪️ Atualmente possuo conhecimento em C, C# e Java<br> ▪️ Atualmente estou trabalhando com Back-End<br> ▪️ Pronomes: Ela/Dela<br>
+<p align="justify"> ▪️ Systems Analysis and Development Student - ADS | FATEC <br> ▪️ Technical degree in Industrial Automation | IFSP <br> ▪️ I currently have knowledge in C, C# and Java<br> ▪️ I am currently working with Back-End<br> ▪️ Pronouns: She/Her<br>
 <p align="center">⚡ Fun fact: I love my cat. 😻</p>
 <div align="center">
   <h3> Find me around the web 🚀</h3>
@@ -61,7 +61,7 @@
  
 ---
 <div align="center">
-  <h3>💚 Spotify 💚</h3>
+  <h3>Spotify</h3>
   <a href="https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
   </a>
