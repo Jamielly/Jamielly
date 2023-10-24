@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jamielly-r-7292b0218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <div align="center">
-  <h3>GitHub Stats 📊</h3>
+  <h3>GitHub Stats</h3>
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jamielly&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
@@ -23,7 +23,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamielly&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 
 <div align="center">
-  <h3>Tech Stack 🛠️</h3>
+  <h3>Tech Stack</h3>
 </div>
 
 <div style="display: inline_block"><br>
@@ -61,7 +61,7 @@
  
 ---
 <div align="center">
-  <h3>Spotify</h3>
+  <h3>My favorite songs 🛸</h3>
   <a href="https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
   </a>
