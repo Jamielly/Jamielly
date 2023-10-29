@@ -61,7 +61,7 @@
  
 ---
 <div align="center">
-  <h3>My favorite songs 🛸</h3>
+  <h3>This is music 🛸</h3>
   <a href="https://open.spotify.com/user/3148r1ud0nfgmjzlssy06z9zj?si">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
   </a>
