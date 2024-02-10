@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Yay! I'm Jamie</h1>
+<h1>Yay! I'm Jamielly</h1>
 </div>
 <p align="justify"> ▪️ Graduated in Systems Analysis and Development - ADS  <br> ▪️ Technical degree in Industrial Automation <br> ▪️ I currently have knowledge in C, C# and Java<br> ▪️ I am currently working with Back-End<br> ▪️ Pronouns: She/Her<br>
 <p align="center">⚡ Fun fact: I love my cat. 😻</p>
