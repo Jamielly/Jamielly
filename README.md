@@ -1,10 +1,17 @@
 <div align="center">
-<h1>Yay! I'm Jamielly</h1>
+  <h1>🎉 Yay! I'm Jamielly 🎉</h1>
 </div>
-<p align="justify"> ▪️ Graduated in Systems Analysis and Development - ADS  <br> ▪️ Technical degree in Industrial Automation <br> ▪️ I currently have knowledge in C, C# and Java<br> ▪️ I am currently working with Full-Stack<br> 
-<p align="center">⚡ Fun fact: I write articles for the internet: https://www.dio.me/users/jamielly_reis 🤖</p>
-<div align="center">
-  <h3> Find me around the web 🚀</h3>
+
+<p align="justify">
+  🎓 Graduated in Systems Analysis and Development - ADS <br>
+  🛠️ Technical degree in Industrial Automation <br>
+  💻 Currently skilled in C, C#, and Java <br>
+  🔧 Working with Full-Stack development <br>
+</p>
+
+<p align="center">
+  ⚡ Fun fact: I write articles on the internet: <a href="https://www.dio.me/users/jamielly_reis">Check them out!</a> 🤖
+</p>
 
 --- 
 <div align="center"> 
@@ -50,6 +57,7 @@
   <img align="center" alt="Jami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
+
 <!--![](https://github-profile-trophy.vercel.app/?username=Jamielly&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -60,6 +68,7 @@
 </div>
 -->
  
+
 ---
- <p>Feito com :heart:</p>
+<p align="center">Made with :heart:</p>
 
