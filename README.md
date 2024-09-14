@@ -4,10 +4,10 @@
 
 <p align="justify">
   💖 Postgraduate course in information systems management in progress - GSI
-  
+
   🎓 Graduated in Systems Analysis and Development - ADS <br>
   🛠️ Technical degree in Industrial Automation <br>
-  💻 Currently skilled in C, C#, and Java <br>
+  💻 Currently skilled in Phyton and Java <br>
   🔧 Working with Full-Stack development <br>
 </p>
 
