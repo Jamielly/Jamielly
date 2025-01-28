@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ⚡ Fun fact: I write articles on the internet: <a href="https://www.dio.me/users/jamielly_reis">Check them out!</a> 🤖
+  ⚡ Fun fact: I write on the internet: <a href="https://www.dio.me/users/jamielly_reis">Check them out!</a> 🤖
 </p>
 
 --- 
