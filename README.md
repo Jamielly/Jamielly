@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>🎉 Yay! I'm Jamielly 🎉</h1>
+  <h1>🎉 Yay! 🎉</h1>
 </div>
 
 <p align="justify">
   💖 Postgraduate course in information systems management in progress - GSI
-
   🎓 Graduated in Systems Analysis and Development - ADS <br>
   🛠️ Technical degree in Industrial Automation <br>
   💻 Currently skilled in Phyton and Java <br>
