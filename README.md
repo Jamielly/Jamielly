@@ -7,7 +7,7 @@
 
   🎓 Graduated in Systems Analysis and Development - ADS <br>
   🛠️ Technical degree in Industrial Automation <br>
-  💻 Currently skilled in Phyton and Java <br>
+  💻 Currently skilled in Python and Java <br>
   🔧 Working with Full-Stack development <br>
 </p>
 
