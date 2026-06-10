@@ -10,7 +10,8 @@
 ##  About me
 
 - 🎓 Background in Information Systems Management  
-- 💻 Languages: **Python • C • Java**  
+- 💻 Languages: **Python • C • Java**
+- Cadet at 42SP 
 - 🛠 Focus: **Full-Stack Development & Systems Thinking**  
 - ✍️ I publish technical writing here →  
   👉 https://www.dio.me/users/jamielly_reis  
