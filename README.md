@@ -1,75 +1,91 @@
 <div align="center">
-  <h1>Hey — welcome 👋</h1>
-  <p>
-    <b>Information Systems Management • Developer • Builder of things that actually run</b>
-  </p>
-</div>
 
----
+# Hi, I'm Jamielly Reis 👋
 
-##  About me
+### Information Systems • Software Development • AI & Innovation
 
-- 🎓 Background in Information Systems Management  
-- 💻 Languages: **Python • C • Java**
-- Cadet at 42SP 
-- 🛠 Focus: **Full-Stack Development & Systems Thinking**  
-- ✍️ I publish technical writing here →  
-  👉 https://www.dio.me/users/jamielly_reis  
-
-> I like code that solves real problems — not toy exercises.
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jamielly-reis" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Core
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-### Web & Data
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-### DevOps / Systems
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-### Tools & Platforms
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+Building technology that solves real-world problems through software, systems thinking, and continuous learning.
 
 </div>
 
 ---
 
-<div align="center">
-  
-![gif](https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif)
+## 🚀 About Me
 
-<p>Built with curiosity and persistence.</p>
+- 🎓 Information Systems Management graduate
+- 🚀 Cadet at 42 São Paulo
+- 💻 Developer focused on Python, Java and C
+- 🤖 Exploring Artificial Intelligence, Automation and Innovation
+- 🏗️ Interested in Full-Stack Development, Systems Design and Product Building
+- ✍️ Technical writer and lifelong learner
+
+> I believe technology is most valuable when it creates tangible impact for real people.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jamielly-reis" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zabella-12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabella-12&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/zabella-12/zabella-12/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif" width="450"/>
+
+### Learning relentlessly. Building continuously.
 
 </div>
 
