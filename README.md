@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jamielly Reis 👋
+# Hi, I'm Jamielly
 
 ### Information Systems • Software Development • AI & Innovation
 
