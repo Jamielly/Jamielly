@@ -27,6 +27,8 @@ typedef struct s_jamielly
     char    *languages[4]; // {"C", "Python", "Java"}
     char    *mindset;      // narrative-driven, cinematic, obsessed with detail
 }   t_jamielly;
+
+// Building technology that solves real-world problems through software, systems thinking, and continuous learning.
 ```
 
 ---
