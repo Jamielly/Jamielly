@@ -205,6 +205,7 @@ Ideas. Code. Impact. — a collection of projects built during hackathons and te
 ## 🐍 Contribution Snake
  
 <div align="center">
+
 ![Snake](https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake.svg)
  
 <sub>Keep contributing!</sub>
