@@ -34,7 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Jamielly "$GITHUB_WORKSPACE/assets" radical
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Jamielly "$GITHUB_WORKSPACE/assets/trophy.svg" radical
 
       - name: Listar o que foi gerado (debug)
         run: ls -la assets/
