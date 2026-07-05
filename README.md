@@ -131,7 +131,8 @@ Philosophy  :: Build.
 
 ### Achievement Matrix
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Jamielly&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+<img src="assets/trophy.svg" alt="GitHub Trophies" />
+</div>
 
 </div>
 
