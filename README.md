@@ -270,7 +270,7 @@ process finished with exit code 0 — but jamielly@ is still compiling.
 
 **Learning relentlessly. Building continuously.**
 
-<img src="https://komarev.com/ghpvc/?username=jamielly&label=Profile%20views&color=e91e8c&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Jamielly&label=Profile%20views&color=e91e8c&style=flat-square"/>
 
 </div>
 
