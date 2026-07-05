@@ -13,17 +13,21 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+cadet+at+%3A+42+S%C3%A3o+Paulo;%24+status%3A+compiling+the+future...;%24+echo+%22born+to+debug%2C+built+to+ship%22;%24+sudo+make+coffee+%26%26+make+jamielly)](https://git.io/typing-svg)
+ 
+<div align="center">
 
-<div align="center">   
-<a href="https://www.linkedin.com/in/jamielly-reis" target="_blank">
-  <img src="https://img.shields.io/badge/-linkedin.com/in/jamielly--reis-6c23ac?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jamiellyreis/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-6c23ac?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@jamiellyreis" target="_blank">
-  <img src="https://img.shields.io/badge/-youtube.com/@jamiellyreis-e91e8c?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+<a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-e91e8c?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://web.dio.me/users/jamielly_reis" target="_blank">
-  <img src="https://img.shields.io/badge/-DIO%20Articles-a855f7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+
+<a href="https://www.dio.me/articles/como-sair-do-basico-em-qualquer-linguagem-de-programacao-java" target="_blank">
+  <img src="https://img.shields.io/badge/DIO%20Articles-a855f7?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
+
 </div></div>
 
 <br>
