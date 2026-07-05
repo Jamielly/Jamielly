@@ -26,12 +26,18 @@ jobs:
         with:
           deno-version: v1.x
 
+      - name: Criar pasta de destino
+        run: mkdir -p assets
+
       - name: Gerar o SVG do troféu
         working-directory: trophy-src
         env:
           GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Jamielly ../assets radical
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Jamielly "$GITHUB_WORKSPACE/assets" radical
+
+      - name: Listar o que foi gerado (debug)
+        run: ls -la assets/
 
       - name: Commitar e enviar se houver mudança
         run: |
