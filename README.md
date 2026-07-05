@@ -223,7 +223,16 @@ Ideas. Code. Impact. — a collection of projects built during hackathons and te
  
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake.svg" />
+
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake-dark.svg" />
+</picture>
  
 <sub>Keep contributing!</sub>
  
