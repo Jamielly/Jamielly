@@ -98,26 +98,42 @@ Philosophy  :: Build.
 
 ---
 
-<table align="center">
+## system.monitor()
+
+<div align="center">
+
+<table>
 <tr>
-<td width="33%" valign="top">
-<h3 align="center"> GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jamielly&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=e91e8c&icon_color=a855f7"/>
+<td align="center" width="50%">
+
+<h3>Runtime Statistics</h3>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Jamielly&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=e91e8c&icon_color=a855f7&text_color=d8b4fe" alt="GitHub Stats" />
+
 </td>
-<td width="33%" valign="top">
-<h3 align="center"> Streak</h3>
-<img src="https://streak-stats.demolab.com/?user=jamielly&theme=radical&hide_border=true&background=1a0b2e&ring=e91e8c&fire=e91e8c&currStreakLabel=a855f7"/>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">🏆 Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=jamielly&theme=radical&no-bg=true&row=2&column=2&margin-w=8&margin-h=8"/>
+<td align="center" width="50%">
+
+<h3>Commit Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=Jamielly&theme=radical&hide_border=true&background=00000000&ring=e91e8c&fire=e91e8c&currStreakLabel=a855f7" alt="GitHub Streak Stats" />
+
 </td>
 </tr>
 </table>
-<h3 align="center">📈 Activity Graph</h3>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamielly&theme=redical&hide_border=true&bg_color=1a0b2e&color=a855f7&line=e91e8c&point=ffffff"/>
-</p>
+
+<br>
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamielly&theme=radical&bg_color=00000000&hide_border=true&color=d8b4fe&line=e91e8c&point=ffffff" alt="Contribution Activity Graph" width="100%" />
+
+<br>
+
+### Achievement Matrix
+
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Jamielly&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
