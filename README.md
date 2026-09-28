@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e91e8c&height=100&section=header"/>
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6c23ac,100:e91e8c&height=140&section=header" width="100%" alt="header" />
 
 ```
      ██╗ █████╗ ███╗   ███╗██╗███████╗██╗     ██╗  ██╗   ██╗
@@ -11,9 +10,10 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝
 ```
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+cadet+at+%3A+42+S%C3%A3o+Paulo;%24+status%3A+compiling+the+future...;%24+echo+%22born+to+debug%2C+built+to+ship%22;%24+sudo+make+coffee+%26%26+make+jamielly)](https://git.io/typing-svg)
  
+<a href="https://github.com/Jamielly">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+cadet+at+42+S%C3%A3o+Paulo;%24+status%3A+compiling+the+future...;%24+echo+%22born+to+debug%2C+built+to+ship%22;%24+sudo+make+coffee+%26%26+make+jamielly" alt="Typing SVG" />
+</a>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jamiellyreis/" target="_blank">
