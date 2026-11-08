@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6c23ac,100:e91e8c&height=140&section=header" width="100%" alt="header" />
 
 ```
      ██╗ █████╗ ███╗   ███╗██╗███████╗██╗     ██╗  ██╗   ██╗
@@ -10,269 +9,148 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝
 ```
 
- 
-<a href="https://github.com/Jamielly">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+cadet+at+42+S%C3%A3o+Paulo;%24+status%3A+compiling+the+future...;%24+echo+%22born+to+debug%2C+built+to+ship%22;%24+sudo+make+coffee+%26%26+make+jamielly" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C792EA&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+42+S%C3%A3o+Paulo;Building+with+C+%26+Python;Exploring+AI%2C+Data+%26+Automation;Researching%2C+Experimenting%2C+Building." alt="Typing SVG"/>
+
+<a href="https://www.linkedin.com/in/jamielly-reis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
+<a href="https://github.com/Jamielly"><img src="https://img.shields.io/badge/GITHUB-251735?style=for-the-badge&logo=github&logoColor=C792EA"/></a>
+<a href="https://web.dio.me/users/jamielly_reis"><img src="https://img.shields.io/badge/DIO-251735?style=for-the-badge&logo=readme&logoColor=C792EA"/></a>
+<a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg"><img src="https://img.shields.io/badge/YOUTUBE-251735?style=for-the-badge&logo=youtube&logoColor=C792EA"/></a>
+
+</div>
+
+---
+
+## `whoami`
+
+<img align="right" width="170" src="https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif" alt="Kiki's Delivery Service"/>
+
+Sou a **Jamielly**, estudante de Software Engineering na **42 São Paulo**, interessada na interseção entre tecnologia, resolução de problemas e pesquisa.
+
+- 🎓 Software Engineering @ 42 São Paulo
+- 💻 Construindo e experimentando com C & Python
+- 🤖 Explorando Inteligência Artificial e automação
+- 🔬 Pesquisa científica e escrita técnica
+- 🧩 Apaixonada por entender como as coisas funcionam por dentro
+
+<br clear="right"/>
+
+> 👻 "Não quero só fazer funcionar. Quero entender por que funciona."
+
+---
+
+## `42_school.exe`
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=60&text=🎓%2042%20São%20Paulo&fontSize=20&fontColor=ffffff&fontAlignY=65&width=240"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=60&text=📘%2042%20Documentation&fontSize=20&fontColor=ffffff&fontAlignY=65&width=260"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=60&text=💻%20C%20%26%20Python&fontSize=20&fontColor=ffffff&fontAlignY=65&width=240"/>
+</p>
+
+Aprendendo por projetos, colaboração peer-to-peer e muita pesquisa independente.
+
+| Repositório | Conteúdo |
+|:---|:---|
+| [`Python_Module_0-4`](https://github.com/Jamielly/Python_Module_0-4) | Módulos 00–04 do Python |
+| [`patibum-exam`](https://github.com/Jamielly/patibum-exam) | Guia de estudo — Exam Rank 02 |
+
+---
+
+## `👻 contribution.pacman()`
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jamiellyreis/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-6c23ac?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph.svg"/>
+<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
 
-<a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-e91e8c?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.dio.me/articles/como-sair-do-basico-em-qualquer-linguagem-de-programacao-java" target="_blank">
-  <img src="https://img.shields.io/badge/DIO%20Articles-a855f7?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
-
-</div></div>
-
-<br>
-
-```c
-
-typedef struct s_jamielly
-{
-    char    *role;         // Information Systems • Software Dev • AI & Innovation
-    char    *campus;       // 42 São Paulo, cadet
-    char    *squads[2];    // {"AITIA", "JINSEI"}
-    char    *languages[3]; // {"C", "Python", "Java"}
-    char    *mindset;      // narrative-driven, cinematic, obsessed with detail
-    int      bugs_fixed;   // counter++ every single day
-}   t_jamielly;
-
-// Building technology that solves real-world problems through software, systems thinking, and continuous learning.
-```
+</div>
 
 ---
 
-## neofetch
+## `compiler_flags` — stack
 
----
-
-<table>
-<tr>
-<td>
-
-```console
-jamielly@terminal
-────────────────────────────────────────────
-
-Status      :: Online
-
-Role        :: Software Engineer
-
-Focus       :: Systems
-               Artificial Intelligence
-               Product Engineering
-
-Building    :: Meaningful software
-               Open source projects
-
-Publishing  :: Technical Writer @ DIO
-
-Portfolio   :: https://web.dio.me/users/jamielly_reis
-
-Topics      :: Docker
-               Cloud
-               Git & GitHub
-               Artificial Intelligence
-
-Stack       :: C
-               Python
-               Java
-
-Environment :: Linux
-               VS Code
-               Git
-
-Philosophy  :: Build.
-               Share.
-               Learn.
-               Repeat.
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=💻%20C&fontSize=20&fontColor=ffffff&fontAlignY=65&width=160"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🐍%20Python&fontSize=20&fontColor=ffffff&fontAlignY=65&width=180"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=☕%20Java&fontSize=20&fontColor=ffffff&fontAlignY=65&width=160"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🧪%20Flask&fontSize=20&fontColor=ffffff&fontAlignY=65&width=180"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=⚡%20FastAPI&fontSize=20&fontColor=ffffff&fontAlignY=65&width=190"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🤖%20OpenAI%20%26%20RAG&fontSize=20&fontColor=ffffff&fontAlignY=65&width=220"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🗄️%20MySQL&fontSize=20&fontColor=ffffff&fontAlignY=65&width=180"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🐳%20Docker&fontSize=20&fontColor=ffffff&fontAlignY=65&width=180"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🐧%20Linux&fontSize=20&fontColor=ffffff&fontAlignY=65&width=170"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🔧%20Git%20%26%20GitHub&fontSize=20&fontColor=ffffff&fontAlignY=65&width=220"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🎮%20Pygame&fontSize=20&fontColor=ffffff&fontAlignY=65&width=180"/>
 </p>
 
 ---
 
-## system.monitor()
+## `system.monitor()`
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<h3>Runtime Statistics</h3>
+**Runtime Statistics**
 
-<img src="https://github-stats-extended.vercel.app/api?username=Jamielly&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=e91e8c&icon_color=a855f7&text_color=d8b4fe" alt="GitHub Stats" />
-
-</td>
-<td align="center" width="50%">
-
-<h3>Commit Streak</h3>
-
-<img src="https://streak-stats.demolab.com?user=Jamielly&theme=radical&hide_border=true&background=00000000&ring=e91e8c&fire=e91e8c&currStreakLabel=a855f7" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jamielly&show_icons=true&hide_border=true&bg_color=251735&title_color=C792EA&icon_color=C792EA&text_color=E5D5F5" width="100%"/>
 
 </td>
-</tr>
-</table>
+<td width="50%" align="center">
 
-<br>
+**Commit Streak**
 
-### Contribution Activity
+<img src="https://streak-stats.demolab.com?user=Jamielly&theme=transparent&hide_border=true&background=251735&ring=C792EA&fire=E879B9&currStreakLabel=C792EA&sideLabels=E5D5F5&dates=9B8AAE" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamielly&theme=radical&bg_color=00000000&hide_border=true&color=d8b4fe&line=e91e8c&point=ffffff" alt="Contribution Activity Graph" width="100%" />
-
-<br>
-
-### Achievement Matrix
-
-<img src="assets/trophy.svg" alt="GitHub Trophies" />
-</div>
-
-</div>
-
----
-
-## compiler_flags (tech stack)
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
-</td>
-<td align="center" valign="top">
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</td>
-<td align="center" valign="top">
-Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring"/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</td>
-<td align="center" valign="top">
-DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
-</td>
-<td align="center" valign="top">
-     
-AI & Data
-
-<img src="https://img.shields.io/badge/-OpenAI-a855f7?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/-LangChain-e91e8c?style=flat-square&logo=chainlink&logoColor=white"/>
-
-</div>
-
----
-## ⭐ Featured Projects
- 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-     
-### 🔮 AITIA
-AI Operational Learning Platform — an intelligent platform that turns operational knowledge into continuous learning.
- 
-`Python` `Automation` `Flask` `C`
- 
-</td>
-<td width="50%" valign="top">
-     
-### 🤖 OpsPilot AI - JINSEI
-AI Operations Assistant — a conversational copilot that helps L1 analysts investigate incidents and automates knowledge capture, reducing unnecessary escalations.
- 
-`Python` `Flask` `OpenAI` `Automation` `AI` `RAG` `FastAPI`
- 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-     
-### 🐱 CatEmpire
-Procedural Strategy Game — a procedurally generated strategy game built with Python and Pygame. Lead your empire to victory!
- 
-`Python` `Pygame` `Procedural Gen`
- 
-</td>
-<td width="50%" valign="top">
-     
-### ⚡ Hackathons
-Ideas. Code. Impact. — a collection of projects built during hackathons and tech challenges.
- 
-`Teamwork` `Innovation` `Impact`
- 
 </td>
 </tr>
 </table>
-<p align="center"><sub>→ more on pinned repositories</sub></p>
+</div>
 
 ---
- 
-## contribution.stream()
- 
+
+## `featured_projects()`
+
+🔮 **AITIA** — plataforma de aprendizado operacional com IA `Python` `Flask` `C`
+🤖 **OpsPilot AI · JINSEI** — copiloto de IA para análise de incidentes `Python` `FastAPI` `RAG`
+🐱 **CatEmpire** — jogo de estratégia procedural `Python` `Pygame`
+⚡ **Hackathons & Experiments** — ideias, código e impacto `Teamwork`
+
+<p align="center"><sub>→ mais nos <a href="https://github.com/Jamielly?tab=repositories">repositórios fixados</a></sub></p>
+
+---
+
+## `research.log`
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🎓%20Pós%20em%20Gestão%20de%20SI&fontSize=18&fontColor=ffffff&fontAlignY=65&width=280"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=📚%203%20artigos%20publicados&fontSize=18&fontColor=ffffff&fontAlignY=65&width=260"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🏆%20Melhor%20Artigo%20—%20Exatecca%20IV&fontSize=18&fontColor=ffffff&fontAlignY=65&width=320"/>
+</p>
+
+---
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake.svg" />
-
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/Jamielly/Jamielly/output/github-contribution-grid-snake-dark.svg" />
-</picture>
- 
-<sub>Keep contributing!</sub>
- 
-</div>
-
----
-
-## ping connect.me
 
 ```bash
 $ ping jamielly --socials
 
-LinkedIn ......... 200 OK   → linkedin.com/in/jamielly-reis
-YouTube .......... 200 OK   → youtube.com/jamiescode
-DIO .............. 200 OK   → web.dio.me/users/jamielly_reis
-GitHub ........... 200 OK   → you're already here
+LinkedIn ......... 200 OK
+GitHub ........... 200 OK
+DIO .............. 200 OK
+YouTube .......... 200 OK
+
+$ echo "obrigada pela visita!"
 ```
+
+**✨ Aprendendo sem parar. Construindo sempre. ✨**
+
+<img src="https://komarev.com/ghpvc/?username=Jamielly&label=PROFILE+VIEWS&color=C792EA&style=flat-square"/>
 
 </div>
-
----
-
-<div align="center">
-
-```
-$ exit
-process finished with exit code 0 — but jamielly@ is still compiling.
-```
-
-<img src="https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif" width="340"/>
-
-**Learning relentlessly. Building continuously.**
-
-<img src="https://komarev.com/ghpvc/?username=Jamielly&label=Profile%20views&color=e91e8c&style=flat-square"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6c23ac,100:e91e8c&height=100&section=footer"/>
- 
