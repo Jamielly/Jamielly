@@ -8,8 +8,7 @@
 ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║███████╗███████╗███████╗██║
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=C792EA&center=true&vCenter=true&width=600&lines=42+is+the+Answer+%E2%80%94+Vila+Madalena%2C+S%C3%A3o+Paulo;No+teachers.+No+classrooms.+Just+peers+%26+code.;From+the+Piscine+to+the+Common+Core.;Building+with+C+%26+Python." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=C792EA&center=true&vCenter=true&width=750&lines=42+is+the+Answer.;Learning+by+doing.+Thinking+by+debugging.;Understanding+before+implementing.;No+shortcuts.+Just+logic%2C+code+%26+persistence.;Building+systems.+Solving+problems.;Curiosity+drives+research.+Logic+drives+code.;I+don't+just+want+code+to+work.+I+want+to+understand+why." alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/jamiellyreis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
 <a href="https://github.com/Jamielly"><img src="https://img.shields.io/badge/GITHUB-251735?style=for-the-badge&logo=github&logoColor=C792EA"/></a>
