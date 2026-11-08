@@ -9,9 +9,9 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C792EA&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+42+S%C3%A3o+Paulo;Building+with+C+%26+Python;Exploring+AI%2C+Data+%26+Automation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=C792EA&center=true&vCenter=true&width=600&lines=42+is+the+Answer+%E2%80%94+Vila+Madalena%2C+S%C3%A3o+Paulo;No+teachers.+No+classrooms.+Just+peers+%26+code.;From+the+Piscine+to+the+Common+Core.;Building+with+C+%26+Python." alt="Typing SVG"/>
 
-<a href="https://www.linkedin.com/in/jamielly-reis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
+<a href="https://www.linkedin.com/in/jamiellyreis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
 <a href="https://github.com/Jamielly"><img src="https://img.shields.io/badge/GITHUB-251735?style=for-the-badge&logo=github&logoColor=C792EA"/></a>
 <a href="https://web.dio.me/users/jamielly_reis"><img src="https://img.shields.io/badge/DIO-251735?style=for-the-badge&logo=readme&logoColor=C792EA"/></a>
 <a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg"><img src="https://img.shields.io/badge/YOUTUBE-251735?style=for-the-badge&logo=youtube&logoColor=C792EA"/></a>
@@ -24,22 +24,80 @@
 
 <img align="right" width="150" src="https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif" alt="Kiki's Delivery Service"/>
 
-I'm **Jamielly**, a Software Engineering student at **42 São Paulo**.
+I'm **Jamielly**, a cadet at **42 São Paulo** — a tuition-free, teacher-free programming school where the curriculum is peer-to-peer and the only grading system is your own code surviving peer review.
 
-- 🎓 Software Engineering @ 42 São Paulo
-- 💻 Building with C & Python
-- 🤖 Exploring AI and automation
-- 🔬 Scientific research and technical writing
+- 🎓 Cadet @ 42 São Paulo
+- 💻 Building with C & Python, project by project
+- 🤖 Exploring AI, automation and operational tooling
+- 🔬 Background in scientific research and technical writing
+- 🧩 Still trying to figure out the question — just like the number in the school's name
 
 <br clear="right"/>
 
 > 👻 "I don't just want to make things work. I want to understand why they work."
 
+<details>
+<summary>⚡ <b>Click to boot jamielly@42 — terminal log</b></summary>
+
+```bash
+$ whoami
+jamielly
+
+$ cat /etc/motd
+Welcome, cadet. Common Core in progress.
+Grading system: peer review. Office hours: none. Deadlines: yours to set.
+
+$ uptime
+compiling since day one — still no segfaults in production
+
+$ fortune
+"The best error message is the one that never shows up." — Thomas Fuchs
+```
+
+</details>
+
 ---
 
-## `42_school.exe`
+## `42, the Answer`
 
-[`Python_Module_0-4`](https://github.com/Jamielly/Python_Module_0-4) · [`patibum-exam`](https://github.com/Jamielly/patibum-exam)
+42 São Paulo runs on one promise: no professors, no classrooms, no tuition — just peers evaluating peers, one project at a time. The name is a nod to *The Hitchhiker's Guide to the Galaxy*: 42 is the answer to life, the universe and everything — you still have to find the question yourself. That's the whole philosophy of the school in one joke.
+
+<p align="center">
+<img src="https://img.shields.io/badge/🏊_Piscine-Survived-251735?style=for-the-badge&logoColor=C792EA"/>
+<img src="https://img.shields.io/badge/👥_Peer--to--Peer-Always-251735?style=for-the-badge&logoColor=C792EA"/>
+<img src="https://img.shields.io/badge/🧠_Common_Core-In_Progress-251735?style=for-the-badge&logoColor=C792EA"/>
+</p>
+
+<details>
+<summary>🛸 <b>Click to reveal: why is it called "42"?</b></summary>
+<br>
+
+> In Douglas Adams' *The Hitchhiker's Guide to the Galaxy*, a supercomputer spends 7.5 million years calculating the answer to life, the universe and everything. The answer is **42** — but nobody actually knew the question. 42 School borrows the joke on purpose: it hands you the tools and the peers, but the questions (the projects, the bugs, the 3 a.m. segfaults) are yours to find.
+
+</details>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python_Module_0-4
+Modules 00–04 of the 42 Python curriculum — OOP, decorators, generators and beyond.
+
+[`View repository →`](https://github.com/Jamielly/Python_Module_0-4)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 patibum-exam
+Study guide and notes built while prepping for Exam Rank 02.
+
+[`View repository →`](https://github.com/Jamielly/patibum-exam)
+
+</td>
+</tr>
+</table>
+
+<sub>→ more 42 projects coming soon as I clear the next ranks</sub>
 
 ---
 
@@ -63,6 +121,23 @@ I'm **Jamielly**, a Software Engineering student at **42 São Paulo**.
 <img src="https://skillicons.dev/icons?i=c,python,java,flask,fastapi,mysql,docker,linux,git,github&theme=dark"/>
 </p>
 
+<details>
+<summary>🔍 <b>Click to expand — what I actually use each one for</b></summary>
+<br>
+
+| Tool | Where it shows up |
+|:---|:---|
+| 💻 **C** | 42 Common Core — low-level logic, memory, norms |
+| 🐍 **Python** | Automation, AI prototyping, 42 Python modules |
+| ☕ **Java** | OOP fundamentals and backend exercises |
+| 🧪 **Flask / ⚡ FastAPI** | APIs for AITIA and OpsPilot AI |
+| 🤖 **OpenAI & RAG** | Conversational copilots that actually answer |
+| 🗄️ **MySQL** | Persistence layer for small projects |
+| 🐳 **Docker / 🐧 Linux** | Everyday dev environment |
+| 🔧 **Git & GitHub** | Where all of the above lives |
+
+</details>
+
 ---
 
 ## `featured_projects()`
@@ -82,12 +157,31 @@ I'm **Jamielly**, a Software Engineering student at **42 São Paulo**.
 - 📚 3 published scientific articles
 - 🏆 Best Article Award — Revista Exatecca IV
 
+<details>
+<summary>🎲 <b>Click for a random fact about me</b></summary>
+<br>
+
+- I debug faster with music on than in silence.
+- My favorite part of the Common Core isn't finishing a project — it's the peer evaluation afterward.
+- I'd rather understand *why* a bug happened than just patch it and move on.
+- Ask me about AITIA or OpsPilot AI — I could talk about them for hours.
+
+</details>
+
 ---
 
 <div align="center">
 
+### 📬 Choose your own adventure
+
+[![LinkedIn](https://img.shields.io/badge/→_Let's_connect-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA)](https://www.linkedin.com/in/jamielly-reis/)
+[![Projects](https://img.shields.io/badge/→_See_my_repos-251735?style=for-the-badge&logo=github&logoColor=C792EA)](https://github.com/Jamielly?tab=repositories)
+[![DIO](https://img.shields.io/badge/→_Read_my_articles-251735?style=for-the-badge&logo=readme&logoColor=C792EA)](https://web.dio.me/users/jamielly_reis)
+
 **✨ Learning relentlessly. Building continuously. ✨**
 
 <img src="https://komarev.com/ghpvc/?username=Jamielly&label=PROFILE+VIEWS&color=C792EA&style=flat-square"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160D24,50:48236B,100:C792EA&height=110&section=footer"/>
 
 </div>
