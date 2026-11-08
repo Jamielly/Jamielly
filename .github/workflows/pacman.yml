@@ -1,0 +1,32 @@
+name: Generate Pac-Man contribution graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pac-Man contribution graph
+        uses: Platane/snk@v3
+        id: pacman-graph
+        with:
+          github_user_name: Jamielly
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
