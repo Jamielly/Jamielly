@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C792EA&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+42+S%C3%A3o+Paulo;Building+with+C+%26+Python;Exploring+AI%2C+Data+%26+Automation;Researching%2C+Experimenting%2C+Building." alt="Typing SVG"/>
 
-<a href="https://www.linkedin.com/in/jamielly-reis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
+<a href="https://www.linkedin.com/in/jamiellyreis/"><img src="https://img.shields.io/badge/LINKEDIN-251735?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
 <a href="https://github.com/Jamielly"><img src="https://img.shields.io/badge/GITHUB-251735?style=for-the-badge&logo=github&logoColor=C792EA"/></a>
 <a href="https://web.dio.me/users/jamielly_reis"><img src="https://img.shields.io/badge/DIO-251735?style=for-the-badge&logo=readme&logoColor=C792EA"/></a>
 <a href="https://www.youtube.com/channel/UCYaWrmozMN48G_Z76H45RWg"><img src="https://img.shields.io/badge/YOUTUBE-251735?style=for-the-badge&logo=youtube&logoColor=C792EA"/></a>
@@ -24,17 +24,17 @@
 
 <img align="right" width="170" src="https://media1.tenor.com/m/aA4cCUQoSMsAAAAC/kiki%27s-delivery-service-kiki.gif" alt="Kiki's Delivery Service"/>
 
-Sou a **Jamielly**, estudante de Software Engineering na **42 São Paulo**, interessada na interseção entre tecnologia, resolução de problemas e pesquisa.
+I'm **Jamielly**, a Software Engineering student at **42 São Paulo**, interested in the intersection of technology, problem-solving and research.
 
 - 🎓 Software Engineering @ 42 São Paulo
-- 💻 Construindo e experimentando com C & Python
-- 🤖 Explorando Inteligência Artificial e automação
-- 🔬 Pesquisa científica e escrita técnica
-- 🧩 Apaixonada por entender como as coisas funcionam por dentro
+- 💻 Building and experimenting with C & Python
+- 🤖 Exploring Artificial Intelligence and automation
+- 🔬 Scientific research and technical writing
+- 🧩 Passionate about understanding how things work under the hood
 
 <br clear="right"/>
 
-> 👻 "Não quero só fazer funcionar. Quero entender por que funciona."
+> 👻 "I don't just want to make things work. I want to understand why they work."
 
 ---
 
@@ -46,12 +46,12 @@ Sou a **Jamielly**, estudante de Software Engineering na **42 São Paulo**, inte
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=60&text=💻%20C%20%26%20Python&fontSize=20&fontColor=ffffff&fontAlignY=65&width=240"/>
 </p>
 
-Aprendendo por projetos, colaboração peer-to-peer e muita pesquisa independente.
+Learning through projects, peer-to-peer collaboration and a lot of independent research.
 
-| Repositório | Conteúdo |
+| Repository | Content |
 |:---|:---|
-| [`Python_Module_0-4`](https://github.com/Jamielly/Python_Module_0-4) | Módulos 00–04 do Python |
-| [`patibum-exam`](https://github.com/Jamielly/patibum-exam) | Guia de estudo — Exam Rank 02 |
+| [`Python_Module_0-4`](https://github.com/Jamielly/Python_Module_0-4) | Python Modules 00–04 |
+| [`patibum-exam`](https://github.com/Jamielly/patibum-exam) | Study guide — Exam Rank 02 |
 
 ---
 
@@ -117,21 +117,24 @@ Aprendendo por projetos, colaboração peer-to-peer e muita pesquisa independent
 
 ## `featured_projects()`
 
-🔮 **AITIA** — plataforma de aprendizado operacional com IA `Python` `Flask` `C`
-🤖 **OpsPilot AI · JINSEI** — copiloto de IA para análise de incidentes `Python` `FastAPI` `RAG`
-🐱 **CatEmpire** — jogo de estratégia procedural `Python` `Pygame`
-⚡ **Hackathons & Experiments** — ideias, código e impacto `Teamwork`
+🔮 **AITIA** — AI operational learning platform `Python` `Flask` `C`
 
-<p align="center"><sub>→ mais nos <a href="https://github.com/Jamielly?tab=repositories">repositórios fixados</a></sub></p>
+🤖 **OpsPilot AI · JINSEI** — AI copilot for incident analysis `Python` `FastAPI` `RAG`
+
+🐱 **CatEmpire** — Procedural strategy game `Python` `Pygame`
+
+⚡ **Hackathons & Experiments** — Ideas. Code. Impact. `Teamwork`
+
+<p align="center"><sub>→ more on my <a href="https://github.com/Jamielly?tab=repositories">pinned repositories</a></sub></p>
 
 ---
 
 ## `research.log`
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🎓%20Pós%20em%20Gestão%20de%20SI&fontSize=18&fontColor=ffffff&fontAlignY=65&width=280"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=📚%203%20artigos%20publicados&fontSize=18&fontColor=ffffff&fontAlignY=65&width=260"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🏆%20Melhor%20Artigo%20—%20Exatecca%20IV&fontSize=18&fontColor=ffffff&fontAlignY=65&width=320"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🎓%20Postgrad%20in%20IS%20Management&fontSize=18&fontColor=ffffff&fontAlignY=65&width=320"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=📚%203%20published%20articles&fontSize=18&fontColor=ffffff&fontAlignY=65&width=270"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:251735,100:C792EA&height=55&text=🏆%20Best%20Article%20—%20Exatecca%20IV&fontSize=18&fontColor=ffffff&fontAlignY=65&width=320"/>
 </p>
 
 ---
@@ -146,10 +149,10 @@ GitHub ........... 200 OK
 DIO .............. 200 OK
 YouTube .......... 200 OK
 
-$ echo "obrigada pela visita!"
+$ echo "thanks for visiting!"
 ```
 
-**✨ Aprendendo sem parar. Construindo sempre. ✨**
+**✨ Learning relentlessly. Building continuously. ✨**
 
 <img src="https://komarev.com/ghpvc/?username=Jamielly&label=PROFILE+VIEWS&color=C792EA&style=flat-square"/>
 
