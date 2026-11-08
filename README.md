@@ -100,15 +100,24 @@ Study guide and notes built while prepping for Exam Rank 02.
 <sub>→ more 42 projects coming soon as I clear the next ranks</sub>
 
 ---
-
 ## `👻 contribution.pacman()`
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph.svg"/>
-<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Jamielly/Jamielly/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
