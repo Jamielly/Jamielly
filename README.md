@@ -82,8 +82,8 @@ $ fortune
 ### 🐍 Python_Module_0-4 & Python_Module_5-9
 Modules 00–04 of the 42 Python curriculum — OOP, decorators, generators and beyond.
 
-[`View repository →`](https://github.com/Jamielly/Python_Module_0-4)
-[`View repository →`](https://github.com/Jamielly/Python_Module_5-9)
+[`View repository 0_4→`](https://github.com/Jamielly/Python_Module_0-4)
+[`View repository 5_9→`](https://github.com/Jamielly/Python_Module_5-9)
 
 </td>
 <td width="50%" valign="top">
