@@ -99,6 +99,19 @@ Study guide and notes built while prepping for Exam Rank 02.
 <sub>→ more 42 projects coming soon as I clear the next ranks</sub>
 
 ---
+
+## `labyrinth.run()`
+
+<div align="center">
+
+<img src="assets/neon42.gif" alt="A-Maze-ing: a labyrinth carves itself, the 42 lights up and a light Pac-Man walks to the exit" width="720"/>
+
+<sub>A-Maze-ing, my maze generator: DFS carving, a reserved "42", and the shortest path to the exit.</sub>
+
+</div>
+
+---
+
 ## `👻 contribution.pacman()`
 
 <div align="center">
